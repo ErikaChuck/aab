@@ -1,13 +1,37 @@
 # aab
 User behavior in A/A/B testing
 
-Trabajas en una empresa emergente que vende productos alimenticios. Debes investigar el comportamiento del usuario para la aplicación de la empresa.
+### **Título:** Análisis de Embudo de Ventas y Evaluación de Test A/A/B  
 
-Primero, estudia el embudo de ventas. Descubre cómo los usuarios y las usuarias llegan a la etapa de compra. ¿Cuántos usuarios o usuarias realmente llegan a esta etapa? ¿Cuántos se atascan en etapas anteriores? ¿Qué etapas en particular?
+**Descripción:**  
+En este proyecto, se investigó el comportamiento del usuario en una aplicación de una empresa emergente de productos alimenticios, abordando dos objetivos principales:  
 
-Luego, observa los resultados de un test A/A/B. (Sigue leyendo para obtener más información sobre los test A/A/B). Al equipo de diseño le gustaría cambiar las fuentes de toda la aplicación, pero la gerencia teme que los usuarios y las usuarias piensen que el nuevo diseño es intimidante. Por ello, deciden tomar una decisión basada en los resultados de un test A/A/B.
+1. **Análisis del Embudo de Ventas:**  
+   - Se estudió cómo los usuarios avanzan en el embudo de ventas, identificando las etapas donde más usuarios se quedan atascados.  
+   - Se calcularon las tasas de conversión entre cada etapa y el porcentaje de usuarios que completan una compra.  
+   - Los hallazgos permitieron identificar puntos críticos en el proceso de compra y recomendar mejoras para optimizar la conversión.  
 
-Los usuarios se dividen en tres grupos: dos grupos de control obtienen las fuentes antiguas y un grupo de prueba obtiene las nuevas. Descubre qué conjunto de fuentes produce mejores resultados.
+2. **Evaluación del Test A/A/B:**  
+   - Se compararon dos grupos de control (A1 y A2, fuentes antiguas) con un grupo experimental (B, fuentes nuevas).  
+   - Se validó la similitud entre los grupos A para asegurar la calidad del experimento.  
+   - Los resultados del test determinaron qué conjunto de fuentes tuvo mejor rendimiento, evaluando métricas clave como tasa de retención y conversión.  
 
-Crear dos grupos A tiene ciertas ventajas. Podemos establecer el principio de que solo confiaremos en la exactitud de nuestras pruebas cuando los dos grupos de control sean similares. Si hay diferencias significativas entre los grupos A, esto puede ayudarnos a descubrir factores que pueden estar distorsionando los resultados. La comparación de grupos de control también nos dice cuánto tiempo y datos necesitaremos cuando realicemos más tests.
+El análisis permitió generar recomendaciones para mejorar la experiencia del usuario y preparar futuros experimentos con mayor precisión y confiabilidad.  
 
+
+### **Title:** Sales Funnel Analysis and A/A/B Test Evaluation  
+
+**Description:**  
+This project investigated user behavior in a food product startup's app, focusing on two main objectives:  
+
+1. **Sales Funnel Analysis:**  
+   - Analyzed user progression through the sales funnel, identifying stages where most users dropped off.  
+   - Calculated conversion rates between stages and the percentage of users completing a purchase.  
+   - Findings helped pinpoint critical bottlenecks and provide recommendations to optimize conversions.  
+
+2. **A/A/B Test Evaluation:**  
+   - Compared two control groups (A1 and A2, old fonts) with one experimental group (B, new fonts).  
+   - Validated similarity between the A groups to ensure experiment quality.  
+   - Results determined which font set performed better, analyzing key metrics like retention and conversion rates.  
+
+The analysis provided actionable recommendations to improve user experience and set a foundation for more accurate and reliable future experiments.  
